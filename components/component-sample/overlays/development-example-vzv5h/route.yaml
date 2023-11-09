@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: component-sample
     app.kubernetes.io/part-of: application-sample
-  name: component-sampleb02u
+  name: component-samplefobh
 spec:
   port:
     targetPort: 8081
